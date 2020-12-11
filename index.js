@@ -31,7 +31,7 @@ $(function(){
         }); 
         $('#shopping-list-entry').val(''); 
            
-        /
+        
      $('.shopping-list').on('click', '.shopping-item-delete', function(event) {
         
         $(this).closest('li').remove();
