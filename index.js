@@ -1,7 +1,7 @@
 $(function(){
     $('.shopping-item-delete').click(function(event){
-        //$(".shopping-item").remove();
+        $(".shopping-item").remove();
 
-        alert("you pressed delete")
+        //alert("you pressed delete")
     });
 });
