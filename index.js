@@ -7,7 +7,7 @@ $(function(){
         });
     });*/
     $('li').on('click', '.shopping-item-delete', function(event){
-        alert("Clicked on li")
+        //alert("Clicked on li")
         //alert("you clicked the delete button");
         this.closest('li').remove();
     });
