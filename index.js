@@ -1,9 +1,5 @@
 $(function(){
-    $("button").click(function(){
+    $("button").click(function(event){
         $(".shopping-item").remove();
-
     });
-       
-
 });
-
