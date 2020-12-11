@@ -1,4 +1,4 @@
-$("button.shopping-item-delete").click(function(event){
+$("shopping-item-delete").click(function(event){
 this.remove();
 });
 
