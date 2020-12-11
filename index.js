@@ -1,9 +1,10 @@
 $(function(){
     alert("youclickeddelte")
-    $("button").click(event => alert("youclickeddelte")
+    $("button").click(function(){
+        $(".shopping-item").remove();
+
+    });
        
-    //$("shopping-item").remove();
-);
 
 });
 
