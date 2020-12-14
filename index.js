@@ -17,7 +17,7 @@ $(function(){
 
                  <span class="button-label">check</span>
 
-               </button>
+               </button> 
 
                <button class="shopping-item-delete">
 
